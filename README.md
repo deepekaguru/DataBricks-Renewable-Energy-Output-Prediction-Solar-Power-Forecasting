@@ -1,11 +1,6 @@
-# DataBricks-Renewable-Energy-Output-Prediction-Solar-Power-Forecasting
-Machine learning pipeline built on Databricks to predict hourly solar power output based on real weather conditions and temporal patterns.
+# ⚡ Renewable Energy Output Prediction: Solar Power Forecasting
 
 <img width="919" height="388" alt="image" src="https://github.com/user-attachments/assets/49ca1309-0b66-4911-b749-25c71af7a0f2" />
-
-
-
-# ⚡ Renewable Energy Output Prediction: Solar Power Forecasting
 
 A production-grade machine learning pipeline built on **Databricks** to predict hourly solar power output based on real weather conditions and temporal patterns. Achieves **99.29% prediction accuracy (R² = 0.9929)**.
 
